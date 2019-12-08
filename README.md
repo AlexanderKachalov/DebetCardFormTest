@@ -9,3 +9,5 @@ ___
 * Перейти в директорию с проектом: `cd DebetCardFormTest`
 * Выполнить команду: `./gradlew test` (`./gradlew.bat test` для из Windows)
 * Отчет о выполнении тестов в директории: `build/reports/tests/test`
+
+![](DebetCardForm.png)
