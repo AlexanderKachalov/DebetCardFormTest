@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gsltqy2oru5y2y24?svg=true)](https://ci.appveyor.com/project/Alexander43884/debetcardformtest)
